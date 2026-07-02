@@ -24,6 +24,6 @@ I specialize in **Java**, **Python**, and **Web Development**.
 
 ## 🏆 Coding Profiles
 
-- 🧩 LeetCode:[ https://leetcode.com/u/YOUR_USERNAME/](https://leetcode.com/u/prachiukey26/)
+- 🧩 **LeetCode:** https://leetcode.com/u/prachiukey26/
 
 ---
