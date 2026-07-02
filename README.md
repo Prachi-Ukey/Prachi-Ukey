@@ -21,3 +21,9 @@ I specialize in **Java**, **Python**, and **Web Development**.
 - 💼 **LinkedIn:** https://www.linkedin.com/in/prachi-ukey-02573b2a2/
 
 ---
+
+## 🏆 Coding Profiles
+
+- 🧩 LeetCode:[ https://leetcode.com/u/YOUR_USERNAME/](https://leetcode.com/u/prachiukey26/)
+
+---
