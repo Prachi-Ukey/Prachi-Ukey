@@ -11,4 +11,4 @@ I specialize in **Java**, **Python**, and **Web Development**.
 - #### 🚀 Frameworks & Libraries: React.js (v19), TailwindCSS, Bootstrap, Spring Boot, AWT, Swing  
 - #### 🔌 API Integration: REST APIs, Axios  
 - #### 🗄️ Database Management: SQL, MongoDB  
-- #### 🧰 Version Control & Tools: Git, GitHub, VS Code, Jupyter Notebook
+- #### 🧰 Version Control & Tools: Git, GitHub, VS Code, Postman, Jupyter Notebook
