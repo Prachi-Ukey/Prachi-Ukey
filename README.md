@@ -17,7 +17,7 @@ I specialize in **Java**, **Python**, and **Web Development**.
 
 ## 🌐 Connect with Me
 
-- 📧 **Email:** your-email@gmail.com
-- 💼 **LinkedIn:** https://www.linkedin.com/in/your-linkedin-profile/
+- 📧 **Email:** ukeyp9051@gmail.com
+- 💼 **LinkedIn:** https://www.linkedin.com/in/prachi-ukey-02573b2a2/
 
 ---
