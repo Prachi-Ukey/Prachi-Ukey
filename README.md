@@ -12,3 +12,15 @@ I specialize in **Java**, **Python**, and **Web Development**.
 - #### 🔌 API Integration: REST APIs, Axios  
 - #### 🗄️ Database Management: SQL, MongoDB  
 - #### 🧰 Version Control & Tools: Git, GitHub, VS Code, Postman, Jupyter Notebook
+
+## 🌐 Connect with Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:your-email@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
