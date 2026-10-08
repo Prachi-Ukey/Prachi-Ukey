@@ -17,78 +17,96 @@ I work primarily with **Python, Java, JavaScript, React.js, FastAPI, databases, 
 
 🚀 Tech Stack
 
-👩‍💻 Development
+💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=python" height="40" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=java" height="40" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=javascript" height="40" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" height="40" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" height="40" />
 </p>
+
+Python   Core Java   JavaScript   HTML5   CSS3
+
+⚛️ Frontend Development
 
 <p>
-  <img src="https://img.shields.io/badge/Python-Expertise-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-Core-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" />
 </p>
 
-🌐 Full-Stack Development
+React.js (v19)   TailwindCSS   Bootstrap
+
+⚙️ Backend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=express" height="40" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=fastapi" height="40" />
 </p>
+
+Node.js   Express.js   FastAPI
+
+🤖 AI / Machine Learning & Data Science
 
 <p>
-  <img src="https://img.shields.io/badge/React.js-Frontend-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/FastAPI-Backend-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST-APIs-02569B?style=flat-square" />
-  <img src="https://img.shields.io/badge/Axios-API%20Client-5A29E4?style=flat-square" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
 
-🤖 AI • Machine Learning • Data
+Scikit-learn   Pandas   NumPy   Machine Learning   Data Analysis
+
+🗄️ Database Management
 
 <p>
-  <img src="https://img.shields.io/badge/Scikit--learn-ML-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-Computing-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=postgresql" height="40" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" />
 </p>
 
-Machine Learning · Data Analysis · Data Processing
+SQL   MySQL   PostgreSQL   MongoDB
 
-🗄️ Database & Data Management
+🔌 API Integration
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" />
 </p>
+
+REST APIs   Axios   JSON   HTTP   Postman
+
+📊 Data Analytics & Visualization
 
 <p>
-  <img src="https://img.shields.io/badge/SQL-Database%20Querying-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-Relational%20DB-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-Relational%20DB-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-NoSQL-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 </p>
 
-📊 Analytics & Business Intelligence
+Power BI   Microsoft Excel   Data Visualization   Dashboarding
+
+🐳 DevOps & Development Tools
 
 <p>
-  <img src="https://img.shields.io/badge/Power%20BI-Analytics-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Microsoft%20Excel-Data%20Analysis-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" height="40" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" height="40" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=jupyter" height="40" />
 </p>
 
-Data Visualization · Dashboards · Reporting · Business Intelligence
+Docker   Git   GitHub   VS Code   Jupyter Notebook
 
-🐳 DevOps & Developer Tools
+🎨 Design & Prototyping
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,jupyter" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" />
 </p>
 
-Docker · Git · GitHub · VS Code · Postman · Jupyter Notebook
+Figma   UI/UX Design   Wireframing   Prototyping
 
-🎨 Design & UI
-
-<p>
-  <img src="https://skillicons.dev/icons?i=figma" />
-</p>
-
-Figma · UI/UX · Wireframing · Prototyping
+---
 
 ## 🧠 Core Computer Science
 
