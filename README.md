@@ -99,44 +99,6 @@ I work primarily with **Python, Java, JavaScript, React.js, FastAPI, databases, 
 
 ---
 
-## 🔥 Featured Projects
-
-### 🚗 Vehicle Damage Assessment & Insurance Cost Prediction
-
-AI-powered system for detecting vehicle damage, estimating severity, and predicting insurance-related costs.
-
-**Tech Stack:**  
-`Python` `YOLOv8` `OpenCV` `Scikit-learn` `Flask` `MySQL`
-
----
-
-### 💬 Real-Time Chat Application
-
-A full-stack real-time messaging application supporting authentication, one-to-one messaging, online users, images, emojis, and real-time communication.
-
-**Tech Stack:**  
-`React.js` `Node.js` `Express.js` `MongoDB` `Socket.IO` `JWT` `Cloudinary`
-
----
-
-### 🤖 AI-Powered Q&A Web Application
-
-An AI-powered web application that allows users to interact with an AI API, maintain conversation history, and access previous questions and answers.
-
-**Tech Stack:**  
-`React.js` `JavaScript` `TailwindCSS` `REST API` `AI API` `Local Storage`
-
----
-
-### 🧠 Personal Knowledge OS — RAG-Based Second Brain
-
-An AI-powered knowledge management system designed to allow users to upload documents and interact with their personal knowledge base using **RAG (Retrieval-Augmented Generation)**.
-
-**Tech Stack:**  
-`React.js` `FastAPI` `PostgreSQL` `pgvector` `RAG` `LLM` `Docker`
-
----
-
 ## 📈 GitHub Statistics
 
 <p align="center">
@@ -154,58 +116,11 @@ An AI-powered knowledge management system designed to allow users to upload docu
 
 ---
 
-## 🧩 Problem Solving
-
-### 🏆 LeetCode
-
-<p align="center">
-  <a href="https://leetcode.com/u/prachiukey26/">
-    <img src="https://leetcard.jacoblin.cool/prachiukey26?theme=dark&font=baloo&ext=heatmap" />
-  </a>
-</p>
-
-I regularly practice **Data Structures & Algorithms** and focus on improving my problem-solving skills through competitive programming.
-
----
-
 ## 📊 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prachi-Ukey&theme=tokyo-night&hide_border=true" />
 </p>
-
----
-
-## 🌱 Currently Learning
-
-```text
-Advanced DSA
-        ↓
-Backend Development
-        ↓
-FastAPI & REST APIs
-        ↓
-AI / Machine Learning
-        ↓
-RAG & LLM Applications
-        ↓
-Docker & Deployment
-        ↓
-System Design
-```
-
----
-
-## 🎯 2026 Goals
-
-- 🚀 Become a strong **Software Developer**
-- 🧠 Master **Data Structures & Algorithms**
-- 🤖 Build production-ready **AI/ML applications**
-- 🌐 Improve **Full-Stack Development**
-- 🐳 Learn modern **Docker & deployment workflows**
-- 📊 Strengthen **Power BI & Data Analytics**
-- 💼 Contribute to meaningful **open-source projects**
-- 📚 Continuously improve my technical and communication skills
 
 ---
 
