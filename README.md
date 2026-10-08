@@ -15,44 +15,80 @@ I work primarily with **Python, Java, JavaScript, React.js, FastAPI, databases, 
 
 ---
 
-## 🚀 Tech Stack
+🚀 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,tailwind,bootstrap,nodejs,express,fastapi,mysql,mongodb,postgresql,docker,git,github,vscode,postman,figma&perline=10" />
+👩‍💻 Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css" />
 </p>
 
-<p align="center">
-  <b>💻 Languages</b> &nbsp; Python • Java • JavaScript • HTML5 • CSS3
-  <br><br>
-  <b>⚛️ Frontend</b> &nbsp; React.js • Tailwind CSS • Bootstrap
-  <br><br>
-  <b>⚙️ Backend</b> &nbsp; Node.js • Express.js • FastAPI
-  <br><br>
-  <b>🗄️ Databases</b> &nbsp; MySQL • PostgreSQL • MongoDB • SQL
-  <br><br>
-  <b>🤖 AI & Data</b> &nbsp; Scikit-learn • Pandas • NumPy • Machine Learning
-  <br><br>
-  <b>📊 Analytics</b> &nbsp; Power BI • Microsoft Excel
-  <br><br>
-  <b>🔌 APIs</b> &nbsp; REST APIs • Axios • Postman • JSON
-  <br><br>
-  <b>🐳 DevOps & Tools</b> &nbsp; Docker • Git • GitHub • VS Code • Jupyter Notebook
-  <br><br>
-  <b>🎨 Design</b> &nbsp; Figma • UI/UX • Responsive Design
+<p>
+  <img src="https://img.shields.io/badge/Python-Expertise-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-Core-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 </p>
 
----
+🌐 Full-Stack Development
 
-### 🧠 Core Concepts
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-1F2937?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Object%20Oriented%20Programming-1F2937?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/REST%20APIs-1F2937?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Problem%20Solving-1F2937?style=for-the-badge" />
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,tailwind,bootstrap" />
 </p>
 
----
+<p>
+  <img src="https://img.shields.io/badge/React.js-Frontend-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/FastAPI-Backend-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST-APIs-02569B?style=flat-square" />
+  <img src="https://img.shields.io/badge/Axios-API%20Client-5A29E4?style=flat-square" />
+</p>
+
+🤖 AI • Machine Learning • Data
+
+<p>
+  <img src="https://img.shields.io/badge/Scikit--learn-ML-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-Computing-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+</p>
+
+Machine Learning · Data Analysis · Data Processing
+
+🗄️ Database & Data Management
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/SQL-Database%20Querying-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-Relational%20DB-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-Relational%20DB-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-NoSQL-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+</p>
+
+📊 Analytics & Business Intelligence
+
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-Analytics-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-Data%20Analysis-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+</p>
+
+Data Visualization · Dashboards · Reporting · Business Intelligence
+
+🐳 DevOps & Developer Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,jupyter" />
+</p>
+
+Docker · Git · GitHub · VS Code · Postman · Jupyter Notebook
+
+🎨 Design & UI
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma" />
+</p>
+
+Figma · UI/UX · Wireframing · Prototyping
 
 ## 🧠 Core Computer Science
 
