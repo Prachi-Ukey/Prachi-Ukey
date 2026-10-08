@@ -128,14 +128,6 @@ I work primarily with **Python, Java, JavaScript, React.js, FastAPI, databases, 
 
 ---
 
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Prachi-Ukey&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🤝 Let's Connect
 
 <p align="center">
