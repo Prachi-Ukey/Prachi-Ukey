@@ -15,111 +15,107 @@ I work primarily with **Python, Java, JavaScript, React.js, FastAPI, databases, 
 
 ---
 
-🚀 Tech Stack
+## 🛠️ Tech Stack
 
-💻 Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python" height="40" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=java" height="40" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=javascript" height="40" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=html" height="40" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=css" height="40" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,tailwind,bootstrap,nodejs,express,fastapi,mysql,postgresql,mongodb,docker,git,github,vscode,postman,figma&perline=10" />
 </p>
 
-Python   Core Java   JavaScript   HTML5   CSS3
+<br>
 
-⚛️ Frontend Development
+<table align="center">
+<tr>
+<td align="center" width="50%">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react" height="40" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" />
+### 💻 Programming
+
+**Python** · **Core Java** · **JavaScript**  
+**HTML5** · **CSS3**
+
+</td>
+
+<td align="center" width="50%">
+
+### 🌐 Frontend
+
+**React.js (v19)** · **TailwindCSS**  
+**Bootstrap**
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="50%">
+
+### ⚙️ Backend & APIs
+
+**Node.js** · **Express.js** · **FastAPI**  
+**REST APIs** · **Axios**
+
+</td>
+
+<td align="center" width="50%">
+
+### 🗄️ Databases
+
+**SQL** · **MySQL** · **PostgreSQL**  
+**MongoDB**
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="50%">
+
+### 🤖 AI / ML & Data Science
+
+**Scikit-learn** · **Pandas** · **NumPy**  
+**Machine Learning** · **Data Analysis**
+
+</td>
+
+<td align="center" width="50%">
+
+### 📊 Analytics
+
+**Power BI** · **Microsoft Excel**  
+**Data Visualization** · **Dashboarding**
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="50%">
+
+### 🐳 DevOps & Tools
+
+**Docker** · **Git** · **GitHub**  
+**VS Code** · **Postman** · **Jupyter Notebook**
+
+</td>
+
+<td align="center" width="50%">
+
+### 🎨 Design
+
+**Figma** · **UI/UX Design**  
+**Wireframing** · **Prototyping**
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<p align="center">
+  <b>🧩 Core CS</b>
+  &nbsp; • &nbsp;
+  Data Structures & Algorithms
+  &nbsp; • &nbsp;
+  Object-Oriented Programming
+  &nbsp; • &nbsp;
+  Problem Solving
 </p>
-
-React.js (v19)   TailwindCSS   Bootstrap
-
-⚙️ Backend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=express" height="40" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=fastapi" height="40" />
-</p>
-
-Node.js   Express.js   FastAPI
-
-🤖 AI / Machine Learning & Data Science
-
-<p>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-</p>
-
-Scikit-learn   Pandas   NumPy   Machine Learning   Data Analysis
-
-🗄️ Database Management
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=postgresql" height="40" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" />
-</p>
-
-SQL   MySQL   PostgreSQL   MongoDB
-
-🔌 API Integration
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postman" height="40" />
-</p>
-
-REST APIs   Axios   JSON   HTTP   Postman
-
-📊 Data Analytics & Visualization
-
-<p>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-</p>
-
-Power BI   Microsoft Excel   Data Visualization   Dashboarding
-
-🐳 DevOps & Development Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker" height="40" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=git" height="40" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=github" height="40" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=jupyter" height="40" />
-</p>
-
-Docker   Git   GitHub   VS Code   Jupyter Notebook
-
-🎨 Design & Prototyping
-
-<p>
-  <img src="https://skillicons.dev/icons?i=figma" height="40" />
-</p>
-
-Figma   UI/UX Design   Wireframing   Prototyping
-
----
-
-## 🧠 Core Computer Science
-
-- 📌 Data Structures & Algorithms
-- 🏗️ Object-Oriented Programming
-- 🔍 Problem Solving
-- 🧩 Software Development
-- 🌐 Web Development
-- 🗄️ Database Management
-- 🔌 API Integration
-- 🔐 Authentication & Authorization
-- 📦 Version Control
-- 🐳 Containerization
 
 ---
 
@@ -136,14 +132,6 @@ Figma   UI/UX Design   Wireframing   Prototyping
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Prachi-Ukey&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prachi-Ukey&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
@@ -171,11 +159,3 @@ Figma   UI/UX Design   Wireframing   Prototyping
 </p>
 
 ---
-
-## 💡 Developer Mindset
-
-> **"Learn continuously. Build consistently. Solve real problems."**
-
-<p align="center">
-  ⭐ If you find my projects interesting, feel free to explore my repositories and connect with me!
-</p>
