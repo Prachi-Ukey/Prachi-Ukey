@@ -17,70 +17,40 @@ I work primarily with **Python, Java, JavaScript, React.js, FastAPI, databases, 
 
 ## 🚀 Tech Stack
 
-### 💻 Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,tailwind,bootstrap,nodejs,express,fastapi,mysql,mongodb,postgresql,docker,git,github,vscode,postman,figma&perline=10" />
 </p>
 
-### ⚛️ Frontend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" />
+<p align="center">
+  <b>💻 Languages</b> &nbsp; Python • Java • JavaScript • HTML5 • CSS3
+  <br><br>
+  <b>⚛️ Frontend</b> &nbsp; React.js • Tailwind CSS • Bootstrap
+  <br><br>
+  <b>⚙️ Backend</b> &nbsp; Node.js • Express.js • FastAPI
+  <br><br>
+  <b>🗄️ Databases</b> &nbsp; MySQL • PostgreSQL • MongoDB • SQL
+  <br><br>
+  <b>🤖 AI & Data</b> &nbsp; Scikit-learn • Pandas • NumPy • Machine Learning
+  <br><br>
+  <b>📊 Analytics</b> &nbsp; Power BI • Microsoft Excel
+  <br><br>
+  <b>🔌 APIs</b> &nbsp; REST APIs • Axios • Postman • JSON
+  <br><br>
+  <b>🐳 DevOps & Tools</b> &nbsp; Docker • Git • GitHub • VS Code • Jupyter Notebook
+  <br><br>
+  <b>🎨 Design</b> &nbsp; Figma • UI/UX • Responsive Design
 </p>
 
-### ⚙️ Backend Development
+---
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+### 🧠 Core Concepts
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-1F2937?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Object%20Oriented%20Programming-1F2937?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/REST%20APIs-1F2937?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Problem%20Solving-1F2937?style=for-the-badge" />
 </p>
-
-### 🤖 AI / Machine Learning & Data Science
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-**Technologies:**  
-`Scikit-learn` • `Pandas` • `NumPy` • `Machine Learning` • `Data Analysis`
-
-### 🗄️ Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
-</p>
-
-**Technologies:**  
-`SQL` • `MySQL` • `PostgreSQL` • `MongoDB`
-
-### 🔌 APIs & Web Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postman" />
-</p>
-
-`REST APIs` • `Axios` • `JSON` • `HTTP`
-
-### 📊 Data Analytics & Visualization
-
-**Power BI** • **Microsoft Excel** • **Pandas** • **NumPy**
-
-### 🐳 DevOps & Development Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman" />
-</p>
-
-**Tools:**  
-`Docker` • `Git` • `GitHub` • `VS Code` • `Jupyter Notebook`
-
-### 🎨 UI/UX & Design
-
-<p>
-  <img src="https://skillicons.dev/icons?i=figma" />
-</p>
-
-**Figma** • **Responsive Design** • **UI Prototyping**
 
 ---
 
