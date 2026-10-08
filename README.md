@@ -7,12 +7,15 @@ I specialize in **Java**, **Python**, and **Web Development**.
 
 ## 🛠️ Skills & Technologies
 
-- #### 💻 Programming Languages: Python, Core Java, HTML5, CSS3, JavaScript  
-- #### 🚀 Frameworks & Libraries: React.js (v19), TailwindCSS, Bootstrap, AWT, Swing  
-- #### 🔌 API Integration: REST APIs, Axios  
-- #### 🗄️ Database Management: SQL, MongoDB
+- #### 💻 Programming Languages: Python, Core Java, HTML5, CSS3, JavaScript
+- #### 🚀 Frameworks & Libraries: React.js (v19), FastAPI, TailwindCSS, Bootstrap, AWT, Swing
+- #### 🤖 Data Science & Machine Learning: Scikit-learn, Pandas, NumPy
+- #### 🔌 API Integration: REST APIs, Axios
+- #### 🗄️ Database Management: SQL, MySQL, PostgreSQL, MongoDB
+- #### 📊 Data Analytics & Visualization: Power BI, Microsoft Excel
 - #### 🧩 Core Computer Science: Data Structures & Algorithms, Object-Oriented Programming (OOP)
-- #### 🧰 Version Control & Tools: Git, GitHub, VS Code, Postman, Jupyter Notebook
+- #### 🐳 DevOps & Development Tools: Docker, Git, GitHub, VS Code, Postman, Jupyter Notebook
+- #### 🎨 Design & Prototyping: Figma
 
 ---
 
