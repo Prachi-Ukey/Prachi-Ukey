@@ -15,7 +15,6 @@ I enjoy turning ideas into practical products, solving challenging problems, and
 - 🔍 Like exploring **new technologies, tools, and modern development approaches**
 - 🤝 Value **teamwork, continuous learning, and taking ownership of my work**
 - 🎯 Aspiring to grow as a **software engineer** and contribute to impactful technology
-- 🌱 **Always learning. Always building. Always improving.**
 
 ---
 
