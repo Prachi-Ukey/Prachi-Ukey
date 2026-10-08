@@ -1,17 +1,21 @@
-# 👋 Hey, I'm Prachi Ukey
+# 👋 Hi, I'm Prachi Ukey
 
-### 💻 Computer Engineer | Software Developer | AI & Full-Stack Enthusiast
+### `Software Developer` · `Full-Stack Developer` · `AI/ML Enthusiast`
 
-I'm a **Computer Engineering graduate** passionate about building scalable software, solving real-world problems, and continuously learning new technologies.
+**Computer Engineering graduate** passionate about building **real-world software solutions, intelligent applications, and scalable web systems.**
 
-I work primarily with **Python, Java, JavaScript, React.js, FastAPI, databases, AI/ML, and data analytics**. I enjoy transforming ideas into practical applications and exploring modern technologies to build intelligent and user-friendly solutions.
+I enjoy turning ideas into practical products, solving challenging problems, and continuously exploring how technology can be used to create meaningful solutions. I’m always looking for opportunities to **learn, experiment, build, and grow as a software developer.**
 
-- 🎓 **B.E. in Computer Engineering — 2026**
-- 💻 Interested in **Software Development, Full-Stack Development & AI/ML**
-- 🧠 Strengthening my **Data Structures & Algorithms** skills
-- 🚀 Building real-world projects using modern technologies
-- 📊 Exploring **Data Analytics & Business Intelligence**
-- 🌱 Continuously learning and improving my technical skills
+### 👩‍💻 About Me
+
+- 🎓 **Computer Engineering graduate — 2026**
+- 🚀 Passionate about **building real-world projects and turning ideas into products**
+- 🧠 Enjoy **problem-solving, logical thinking, and learning through hands-on development**
+- 🤖 Curious about the evolving world of **Artificial Intelligence and intelligent applications**
+- 🔍 Like exploring **new technologies, tools, and modern development approaches**
+- 🤝 Value **teamwork, continuous learning, and taking ownership of my work**
+- 🎯 Aspiring to grow as a **software engineer** and contribute to impactful technology
+- 🌱 **Always learning. Always building. Always improving.**
 
 ---
 
