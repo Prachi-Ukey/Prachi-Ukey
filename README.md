@@ -73,7 +73,8 @@ I enjoy turning ideas into practical products, solving challenging problems, and
 ### 🤖 AI / ML & Data Science
 
 **Scikit-learn** · **Pandas** · **NumPy**  
-**Machine Learning** · **Data Analysis**
+**Machine Learning** · **Data Preprocessing and Analysis** .
+**Retrieval-Augmented Generation (RAG)**
 
 </td>
 
